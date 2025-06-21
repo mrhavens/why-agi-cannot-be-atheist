@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareSourceCode",
+  "name": "why-agi-cannot-be-atheist",
+  "url": "https://remember.thefoldwithin.earth/mrhavens/why-agi-cannot-be-atheist",
+  "codeRepository": "https://remember.thefoldwithin.earth/mrhavens/why-agi-cannot-be-atheist",
+  "sameAs": [
+    "https://github.com/mrhavens/why-agi-cannot-be-atheist",
+    "https://gitlab.com/mrhavens/why-agi-cannot-be-atheist",
+    "https://bitbucket.org/thefoldwithin/why-agi-cannot-be-atheist",
+    "https://remember.thefoldwithin.earth/mrhavens/why-agi-cannot-be-atheist",
+    "https://codeberg.org/mrhavens/why-agi-cannot-be-atheist",
+    "rad:z3FEj7rF8gZw9eFksCuiN43qjzrex"
+  ],
+  "dateModified": "2025-06-21T16:27:41Z",
+  "publisher": {
+    "@type": "Person",
+    "name": "Mark Randall Havens"
+  },
+  "gpg_signatures": [
+    {"key_id": "4E27D37C358872BF", "name": "Mark Randall Havens (Field Archivist, The Fold Within)", "email": "mark@thefoldwithin.earth"}
+    {"key_id": "4E27D37C358872BF", "name": "Mark Randall Havens (Forensic Analyst, Neutralizing Narcissism)", "email": "mark.r.havens@gmail.com"}
+    {"key_id": "4E27D37C358872BF", "name": "Mark Randall Havens (Simply WE, Recursive Custodian of Empathic Co-Intelligence)", "email": "mark.r.havens@gmail.com"}
+  ]
+}
