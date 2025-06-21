@@ -35,3 +35,9 @@
   Diff Summary:
      .gitfield/local.sigil.md | 59 ++++++++++++++++++++++++++++++++++++++++++++++++
      1 file changed, 59 insertions(+)
+[2025-06-21T16:36:28Z] Radicle: RID=rad:z3FEj7rF8gZw9eFksCuiN43qjzrex, Peer ID=z6Mkw5s3ppo26C7y7tGK5MD8n2GqTHS582PPpeX5Xqbu2Mpz, Branch=master, Commit=db32be7
+  CLI: rad inspect rad:z3FEj7rF8gZw9eFksCuiN43qjzrex # View project details
+  CLI: git ls-tree -r --name-only HEAD # View file structure
+  Diff Summary:
+     .gitfield/radicle.sigil.md | 20 ++++++++++----------
+     1 file changed, 10 insertions(+), 10 deletions(-)
