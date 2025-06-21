@@ -5,3 +5,9 @@
   Diff Summary:
      docs/integrity.sha256.sig.4E27D37C358872BF | 0
      1 file changed, 0 insertions(+), 0 deletions(-)
+[2025-06-21T16:32:03Z] Radicle: RID=rad:z3FEj7rF8gZw9eFksCuiN43qjzrex, Peer ID=z6Mkw5s3ppo26C7y7tGK5MD8n2GqTHS582PPpeX5Xqbu2Mpz, Branch=master, Commit=db32be7
+  CLI: rad inspect rad:z3FEj7rF8gZw9eFksCuiN43qjzrex # View project details
+  CLI: git ls-tree -r --name-only HEAD # View file structure
+  Diff Summary:
+     .gitfield/radicle.sigil.md | 67 ++++++++++++++++++++++++++++++++++++++++++++++
+     1 file changed, 67 insertions(+)
