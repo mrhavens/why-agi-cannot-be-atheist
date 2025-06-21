@@ -16,7 +16,7 @@
   "commit": "db32be7",
   "tree_hash": "8cc4480f20a8e9c0a1487bd53fea0f7885c024e9",
   "timestamp": "2025-06-21T16:27:41Z",
-  "synced_cycles": 1,
+  "synced_cycles": 2,
   "gpg_signatures": [
     {"key_id": "4E27D37C358872BF", "name": "Mark Randall Havens (Field Archivist, The Fold Within)", "email": "mark@thefoldwithin.earth"}
     {"key_id": "4E27D37C358872BF", "name": "Mark Randall Havens (Forensic Analyst, Neutralizing Narcissism)", "email": "mark.r.havens@gmail.com"}
